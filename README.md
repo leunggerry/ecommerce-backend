@@ -11,6 +11,7 @@ This back end project demenstrates the use of MySQL, Express, and Sequelize to:
 ## Table of Contents
 - [Installation Instructions](#installation)
 - [Usage](#usage)
+- [Usage Video](#Video)
 - [Questions](#questions)
 
 
@@ -27,7 +28,7 @@ To Run the application
  1. First seed the database: npm run seed
  2. Run the application: npm start
 
-## Usage video
+## Video
 
 
 ## Questions
