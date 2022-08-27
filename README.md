@@ -30,6 +30,9 @@ To Run the application
 
 ## Video
 
+https://user-images.githubusercontent.com/5793994/187041154-cd12d500-8d6c-4852-9cfa-85a3fe25edb7.mp4
+
+
 
 ## Questions
 If you have any questions regarding the status of this project or any concerns please refer to my GitHub repo:
